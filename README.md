@@ -21,9 +21,14 @@ App hold the following stuff:
 #### Shahmeer Khan 🧑
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Shahmeer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/meer-khan)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmeer-khan%2FArt-Gallery-App-Flutter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmeer-khan%2FArt-Gallery-App-Flutter?ref=badge_shield)
 
 👉 You can also follow my GitHub Profile to stay updated about my latest projects:
 
 [![GitHub Follow](https://img.shields.io/badge/Connect-Shahmeer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/meer-khan)
 
 Copyright (c) 2020 Shahmeer Khan
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmeer-khan%2FArt-Gallery-App-Flutter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmeer-khan%2FArt-Gallery-App-Flutter?ref=badge_large)
